@@ -1,10 +1,8 @@
 # ALGOKIT setup
 
-
 ## Reference
 
 https://developer.algorand.org/docs/get-started/algokit/
-
 
 ## Prereqs
 
